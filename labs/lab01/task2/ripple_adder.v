@@ -25,3 +25,4 @@ module ripple_adder(
   // TODO: your four FA_Gate instances go here.
 
 endmodule
+
