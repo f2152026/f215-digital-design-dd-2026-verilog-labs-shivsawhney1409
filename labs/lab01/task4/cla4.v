@@ -37,3 +37,4 @@ module cla4(
   // (cout should be connected to c4.) Remember the delay on every gate.
 
 endmodule
+
