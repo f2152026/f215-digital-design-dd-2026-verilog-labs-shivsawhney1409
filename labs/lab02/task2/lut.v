@@ -23,4 +23,4 @@ module lut #(
     dout = mem[sel];
   end
 
-endmodule
+endmodule 
